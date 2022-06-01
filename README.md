@@ -2,6 +2,7 @@
 
 - ⚡ Estudante de Programação
 -    Trabalhando com PowerBi
+- :mailbox:Meu Contato mateusmendes95@hotmail.com   
 -    <div align="center">
   <a href="https://github.com/MateusDevX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDevX&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
