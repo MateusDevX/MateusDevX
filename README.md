@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mateus Mendes
 
 - ⚡ Estudante de Programação
--    Trabalhando com PowerBi
+- :computer:Atualmente trabalho na @Rodobens (modelo remoto).
 - :mailbox:Meu Contato mateusmendes95@hotmail.com   
 -    <div align="center">
   <a href="https://github.com/MateusDevX">
